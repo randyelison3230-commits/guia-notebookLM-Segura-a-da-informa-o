@@ -1,4 +1,4 @@
-# guia-notebookLM-Segura-a-da-informa-o
+# guia-notebookLM-Segurança-da-Informação.
 
 #🛡️ Caderno Temático - Fundamentos da Segurança da Informação com NotebookLM
 📖 Sobre o Projeto
@@ -86,3 +86,53 @@ Tríade CIA
  -Controle de Versões
 
  🌐 Disponibilidade
+ A Disponibilidade garante que tal informação ou sistema sempre tem que estar dispónivel.
+
+Exemplos:
+-Backups
+-Servidores Redundantes
+-Planaos de recuperação de desastres
+
+⚠️ Principais Ameaças
+-Phishing
+-Malware
+-Ransomware
+-Engenharia Social
+-Ataques de força bruta
+-SQL Injection
+-Cross-Site Scripting (XSS)
+-Negação de Serviço (DoS/DDoS)
+
+🛡️ Boas Práticas
+-Utilizar senhas fortes.
+-Ativar autenticação em dois fatores (2FA).
+-Manter sistemas atualizados.
+-Realizar backups periódicos.
+-Utilizar antivírus confiáveis.
+-Evitar clicar em links suspeitos.
+-Criptografar informações sensíveis.
+
+📚 Glossário
+
+CIA — Confidencialidade, Integridade e Disponibilidade.
+
+Firewall — Sistema responsável por controlar o tráfego entre redes.
+
+Malware — Software malicioso desenvolvido para causar danos.
+
+Phishing — Tentativa de obter informações por meio de mensagens falsas.
+
+Ransomware — Malware que criptografa arquivos e exige pagamento para liberá-los.
+
+Hash — Função matemática utilizada para verificar a integridade dos dados.
+
+Criptografia — Técnica utilizada para proteger informações contra acessos indevidos.
+
+🚀 Conclusão
+Podemos concluir que a ferramenta NotebookLM demonstrou ser bem organizada e bem utíl usando-a com prompts adequados, com ela vimos que conseguimos estudar e nós aprofundar muito mais em diferentes assuntos, sejma de tecnologia ou de qualquer outra área, podendo não só gerar resumos mas também mapas mentais e slides que nos orientam e agilização diferentes processos.
+
+👨‍💻 Autor
+
+Randyelison Ferreira Gomes De Sousa
+
+Projeto desenvolvido para o desafio da DIO utilizando GitHub e NotebooLM.
