@@ -1,10 +1,10 @@
 # guia-notebookLM-Segurança-da-Informação.
-🛡️ Caderno Temático - Fundamentos da Segurança da Informação com NotebookLM
+#🛡️ Caderno Temático - Fundamentos da Segurança da Informação com NotebookLM
 📖 Sobre o Projeto
 Esse projeto em questão foi desenvolvido como um desafio da plataforma de cursos da DIO!. Nesse projeto eu utilizei a ferramenta da Google NotebookLM como minha assistente para estudos de segurança da informação, e aprendi que a Inteligência Artificial usada da forma certa pode proporcionar diversos benefícios para estudos não só na área da segurança, mas em diferentes áreas da tecnologia em geral.
 Durante o desenvolvimento do projeto eu utilizei fontes confiáveis para obter respostas coerentes e verdadeiras, utilizei alguns prompts elaborados para obter respostas bem detalhadas e com exemplos do dia a dia. Com isso eu desenvolvi esse mini guia de estudos sobre segurança da informação.
 
-⭐ Objetivo
+#⭐ Objetivo
 Compreender os conceitos e fundamentos de segurança da informação.
 
 Estudar os pilares da tríade CIA.
@@ -15,7 +15,7 @@ Aprender a se proteger das ameaças e como evitá-las.
 
 Desenvolver habilidade de criação de prompts mais detalhados e eficazes.
 
-📚 Fontes Utilizadas
+#📚 Fontes Utilizadas
 OWASP Foundation: https://owasp.org/www-project-top-ten/  
 No link do OWASP podemos encontrar textos que explicam as principais vulnerabilidades.
 
@@ -31,7 +31,7 @@ Nesse link podemos encontrar um material introdutório de redes e segurança.
 Microsoft Learn: https://learn.microsoft.com/  
 Nesse link encontra-se documentação oficial de segurança no ambiente Microsoft.
 
-🤖 Engenharia de Prompts
+#🤖 Engenharia de Prompts
 Prompt 1: Quais são os fundamentos principais de segurança da informação? Descreva em tópicos.
 
 Resposta: A resposta gerada pelo prompt foi bem explicativa, apresentou os principais fundamentos e deixou tudo organizado em 8 tópicos.
@@ -56,7 +56,7 @@ Prompt 5: Quais os pilares da tríade CIA? Explique de forma clara e resumida.
 
 Resultado: O resultado foi bem impressionante. A IA explicou de forma clara e fácil sobre Integridade, Confidencialidade e Disponibilidade, resumindo tudo e tornando o estudo melhor.
 
-🔧 Cicatrizes (Troubleshooting)
+#🔧 Cicatrizes (Troubleshooting)
 Durante o uso da ferramenta NotebookLM eu percebi alguns pontos que podem ser melhorados dependendo do tipo de prompt:
 
 Prompts muito genéricos e sem muitos detalhes geram respostas rasas.
@@ -67,11 +67,11 @@ Percebi que, se usamos mais fontes, conseguimos gerar respostas mais amplas em c
 
 Podemos dizer que, se usarmos a ferramenta com boa fé, conseguimos gerar muitos conteúdos.
 
-📖 Miniguia de Estudos
+#📖 Miniguia de Estudos
 O que é Segurança da Informação?  
 Segurança da Informação é o conjunto de boas práticas, processos e tecnologias utilizados para se proteger contra acessos indevidos ou suspeitos que tentam realizar alterações indevidas, causar perdas ou indisponibilidade. Seu principal objetivo é garantir a proteção da informação durante toda a sua vida.
 
-Tríade CIA
+#Tríade CIA
 
 🔒 Confidencialidade  
 A confidencialidade garante que apenas pessoas autorizadas tenham acesso à informação.
@@ -103,7 +103,7 @@ Servidores Redundantes
 
 Planos de recuperação de desastres
 
-⚠️ Principais Ameaças
+#⚠️ Principais Ameaças
 
 Phishing
 
@@ -121,7 +121,7 @@ Cross-Site Scripting (XSS)
 
 Negação de Serviço (DoS/DDoS)
 
-🛡️ Boas Práticas
+#🛡️ Boas Práticas
 
 Utilizar senhas fortes.
 
@@ -137,7 +137,7 @@ Evitar clicar em links suspeitos.
 
 Criptografar informações sensíveis.
 
-📚 Glossário
+#📚 Glossário
 
 CIA — Confidencialidade, Integridade e Disponibilidade.
 
@@ -153,10 +153,10 @@ Hash — Função matemática utilizada para verificar a integridade dos dados.
 
 Criptografia — Técnica utilizada para proteger informações contra acessos indevidos.
 
-🚀 Conclusão
+#🚀 Conclusão
 Podemos concluir que a ferramenta NotebookLM demonstrou ser bem organizada e útil quando usada com prompts adequados. Com ela vimos que conseguimos estudar e nos aprofundar muito mais em diferentes assuntos, sejam de tecnologia ou de qualquer outra área, podendo não só gerar resumos, mas também mapas mentais e slides que nos orientam e agilizam diferentes processos.
 
-👨‍💻 Autor
+#👨‍💻 Autor
 Randyelison Ferreira Gomes De Sousa
 
 Projeto desenvolvido para o desafio da DIO utilizando GitHub e NotebookLM.
