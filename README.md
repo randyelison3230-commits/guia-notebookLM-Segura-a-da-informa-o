@@ -30,5 +30,59 @@ Nesse link podemos encontrar um material introdutorio de redes e segurança
 Nesse link encontra-se documentação oficial de segurança no ambiente microsoft.
 
 🤖 Engenharia de Prompts
+prompt 1: quais são os fundamentos principais de segurança da informação, descreva em tópicos.
+
+Resposta:A resposta Gerada pelo prompt foi algo bem explicativo, ele me respondeu com os principais fundamentos e ainda deixou tudo bem organizado em  8 tópicos gerados.
+
+observação: A resposta gerada foi muito boa, porem sem exemplos que poderiam tornar melhor a forma de entender.
+
+prompt 2: Quais são os sinais comuns de golpes na internet? Cite com exemplos hipoteticos de como isso pode ocorrer na vida real.
+
+resultado: a resposta gerada foi bem explicativa, pois ela detalhou a explicação com exemplos de situações na nossa vida real.
+
+observação:Quando pedimos para a IA da exemplos do cotidiano ela nos entrega um material muito melhor na resposta, pois assim conseguimos ter maior proveito.
+
+pormpt 3:como evitar esses tipos de golpes, explique com exmplos do dia a dia
+
+resultado: O resultado gerado nos deu vários métodos de como nos proteger e ficar em alerta com esses tipos de fraudes, o exemplos que recebomos também foram bem utéis,como por exemplo ficarmos mais alertas com emails falsos ou páginas na web que não contem criptografias.
+
+prompt 4:Quais são os riscos de segurança em redes Wi-Fi públicas?
+
+resultado:A resposta gerada não foi totalmente certa sobre o assunto já que a IA não consiguiu achar muito sobre redes wi-fi pois as fontes não apresenatm uma lista exaustiva dedicada especificamente a redes Wi-Fi, mas nos apresentou principais ameaças associadas ao uso de redes públicas e não confiáveis.
+
+prompt 5:Quais os pilares da triade CIA, explique de forma clara e resumida.
+
+Resultado:O resultado foi algo bem impressionante, IA além de ter explicado de forma clara e fácil sobre Integridade, Confidencialidade e Disponibilidade, ela resumiu tudo e deixou muito melhor de estudar.
 
 
+🔧 Cicatrizes (Troubleshooting)
+Durante o uso da ferramenta NotebookLM eu percebi algumas cicatrizes que se pode melhorar dependo do seu tipo de prompt.
+
+-Prompts muito genéricos e sem muitos detalhes geram respostas razas e sem muitos detalhes.
+-Solicitar exemplos do dia a dia nós dá um entendimento melhor sobre tal assunto.
+-Percebi que se usamos mais fontes conseguimos gerar respostas um pouco mais ampla em certas partes.
+-Podemos dizer que se usarmos a ferramenta com boa fé conseguimos gera muitos conteudos.
+
+📖 Miniguia de Estudos
+O que é Segurança da Informação?
+Seguranaça da Informação é o conjunto de boas práticas, processos e tecnologias utilizados para se proteger contra acesso indevidos ou suspeitos que tentam fazer alterações indevidades, perdas ou indisponibilidade.Seu principal objetivo é garantir a proteção da informação durante toda a sua vida.
+
+Tríade CIA
+
+🔒 Confidencialidade
+ A confidencialidade garante que apénas pessoas autorizadas tenham acesso a informação.
+
+ Exemplos:
+ -senhas
+ -criptografia
+ -controle de acesso
+
+ ✅ Integridade
+ A integridade garante que tal informação não pode ser modificada por alguém sem autorização.
+
+ Exemplos:
+ -Hashes
+ -Assinaturas Digitias
+ -Controle de Versões
+
+ 🌐 Disponibilidade
